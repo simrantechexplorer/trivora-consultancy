@@ -1,4 +1,4 @@
-import TrivoraWebsite from "@/components/TrivoraWebsite";
+import TrivoraWebsite from "../components/TrivoraWebsite";
 
 export default function Page() {
   return <TrivoraWebsite />;
